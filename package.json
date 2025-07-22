@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetnthakre/backend-proper-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Chetnthakre/backend-proper-upload/issues"
+  },
+  "homepage": "https://github.com/Chetnthakre/backend-proper-upload#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
